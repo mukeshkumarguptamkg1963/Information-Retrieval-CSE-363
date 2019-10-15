@@ -2,6 +2,7 @@
 import codecs
 import re
 import sys
+#Tokenizer code
 class Tokenizer():
 
 	def __init__(self,text=None):
